@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>TeamViewerQS</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps</string>
+        <string>apps/TeamViewer</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
@@ -21,7 +21,7 @@
             <key>description</key>
             <string>TeamViewer - the All-In-One Software for Remote Support and Online Meetings</string>
             <key>display_name</key>
-            <string>TeamViewer QuickSupport</string>
+            <string>TeamViewer QuickSupport </string>
             <key>name</key>
             <string>%NAME%</string>
             <key>unattended_install</key>
